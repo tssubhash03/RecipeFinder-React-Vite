@@ -51,7 +51,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abhishekgurjar_in/recipe-finder.git
+   git clone https://github.com/tssubhash03/RecipeFinder-React-Vite.git
    cd recipe-finder
    ```
 
@@ -69,13 +69,6 @@ To run this project locally, follow these steps:
 
 5. Add your API credentials inside the pages where API calls are made, such as `Home.js`, `Trending.js`, `NewRecipe.js`, and `RecipeDetail.js`.
 
-
-#### Live Demo
-You can view the live demo of the project [here](https://recipe-finder-in.netlify.app).
-
-#### Screenshots
-
-![Screenshot 2024-09-13 080658](https://github.com/user-attachments/assets/ce9602e2-9449-4258-abc1-9899b87de834)
 
 
 #### Conclusion
