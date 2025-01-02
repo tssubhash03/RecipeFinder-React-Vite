@@ -76,9 +76,4 @@ The **Recipe Finder Website** is a powerful tool for anyone looking to discover 
 
 Feel free to experiment with the project and make it your own!
 
-#### Credits
-- API: [Edamam](https://www.edamam.com/)
-- Icons: [React Icons](https://react-icons.github.io/react-icons/)
 
-#### Author
-**Abhishek Gurjar** is a dedicated web developer passionate about creating practical and functional web applications. Check out more of his projects on [GitHub](https://github.com/abhishekgurjar-in).
